@@ -1,0 +1,16 @@
+{
+      "tam accuracy_StackingClassifier(estimators=[('tree', DecisionTreeClassifier()),\n                               ('rf', RandomForestClassifier()),\n                               ('lgbm', LGBMClassifier()),\n                               ('cat',\n                                <catboost.core.CatBoostClassifier object at 0x000001627DDD43D0>)],\n                   final_estimator=LogisticRegression(), n_jobs=-1)": 0.5956842703009654,
+      "tam precision_score_StackingClassifier(estimators=[('tree', DecisionTreeClassifier()),\n                               ('rf', RandomForestClassifier()),\n                               ('lgbm', LGBMClassifier()),\n                               ('cat',\n                                <catboost.core.CatBoostClassifier object at 0x000001627DDD43D0>)],\n                   final_estimator=LogisticRegression(), n_jobs=-1)": 0.6045482894451422,
+      "tam recall_score_StackingClassifier(estimators=[('tree', DecisionTreeClassifier()),\n                               ('rf', RandomForestClassifier()),\n                               ('lgbm', LGBMClassifier()),\n                               ('cat',\n                                <catboost.core.CatBoostClassifier object at 0x000001627DDD43D0>)],\n                   final_estimator=LogisticRegression(), n_jobs=-1)": 0.5956842703009654,
+      "tam f1_score_StackingClassifier(estimators=[('tree', DecisionTreeClassifier()),\n                               ('rf', RandomForestClassifier()),\n                               ('lgbm', LGBMClassifier()),\n                               ('cat',\n                                <catboost.core.CatBoostClassifier object at 0x000001627DDD43D0>)],\n                   final_estimator=LogisticRegression(), n_jobs=-1)": 0.564639144009568,
+      "tam confusion_matrix_StackingClassifier(estimators=[('tree', DecisionTreeClassifier()),\n                               ('rf', RandomForestClassifier()),\n                               ('lgbm', LGBMClassifier()),\n                               ('cat',\n                                <catboost.core.CatBoostClassifier object at 0x000001627DDD43D0>)],\n                   final_estimator=LogisticRegression(), n_jobs=-1)": [
+            [
+                  257,
+                  558
+            ],
+            [
+                  154,
+                  792
+            ]
+      ]
+}

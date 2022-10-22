@@ -1,0 +1,16 @@
+{
+      "tam accuracy_LGBMClassifier()": 0.5854628052243044,
+      "tam precision_score_LGBMClassifier()": 0.5847552931746308,
+      "tam recall_score_LGBMClassifier()": 0.5854628052243044,
+      "tam f1_score_LGBMClassifier()": 0.5670775425862433,
+      "tam confusion_matrix_LGBMClassifier()": [
+            [
+                  300,
+                  515
+            ],
+            [
+                  215,
+                  731
+            ]
+      ]
+}

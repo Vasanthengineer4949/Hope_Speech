@@ -1,0 +1,16 @@
+{
+      "eng accuracy_LogisticRegression(max_iter=300)": 0.937741822018994,
+      "eng precision_score_LogisticRegression(max_iter=300)": 0.9308404490065507,
+      "eng recall_score_LogisticRegression(max_iter=300)": 0.937741822018994,
+      "eng f1_score_LogisticRegression(max_iter=300)": 0.9285132568611283,
+      "eng confusion_matrix_LogisticRegression(max_iter=300)": [
+            [
+                  101,
+                  149
+            ],
+            [
+                  28,
+                  2565
+            ]
+      ]
+}

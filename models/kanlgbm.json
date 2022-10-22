@@ -1,0 +1,16 @@
+{
+      "kan accuracy_LGBMClassifier()": 0.6639477977161501,
+      "kan precision_score_LGBMClassifier()": 0.6216995402639774,
+      "kan recall_score_LGBMClassifier()": 0.6639477977161501,
+      "kan f1_score_LGBMClassifier()": 0.6186671319855319,
+      "kan confusion_matrix_LGBMClassifier()": [
+            [
+                  41,
+                  159
+            ],
+            [
+                  47,
+                  366
+            ]
+      ]
+}

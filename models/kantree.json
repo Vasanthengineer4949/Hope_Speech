@@ -1,0 +1,16 @@
+{
+      "kan accuracy_DecisionTreeClassifier()": 0.632952691680261,
+      "kan precision_score_DecisionTreeClassifier()": 0.5950168793478747,
+      "kan recall_score_DecisionTreeClassifier()": 0.632952691680261,
+      "kan f1_score_DecisionTreeClassifier()": 0.6038067309969002,
+      "kan confusion_matrix_DecisionTreeClassifier()": [
+            [
+                  48,
+                  152
+            ],
+            [
+                  73,
+                  340
+            ]
+      ]
+}

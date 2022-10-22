@@ -1,0 +1,16 @@
+{
+      "eng accuracy_LGBMClassifier()": 0.9342244108336265,
+      "eng precision_score_LGBMClassifier()": 0.9257027393385177,
+      "eng recall_score_LGBMClassifier()": 0.9342244108336265,
+      "eng f1_score_LGBMClassifier()": 0.9249033505963472,
+      "eng confusion_matrix_LGBMClassifier()": [
+            [
+                  98,
+                  152
+            ],
+            [
+                  35,
+                  2558
+            ]
+      ]
+}

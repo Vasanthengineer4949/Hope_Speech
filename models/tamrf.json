@@ -1,0 +1,16 @@
+{
+      "tam accuracy_RandomForestClassifier()": 0.5803520726859739,
+      "tam precision_score_RandomForestClassifier()": 0.5804854204354826,
+      "tam recall_score_RandomForestClassifier()": 0.5803520726859739,
+      "tam f1_score_RandomForestClassifier()": 0.5563779889184526,
+      "tam confusion_matrix_RandomForestClassifier()": [
+            [
+                  273,
+                  542
+            ],
+            [
+                  197,
+                  749
+            ]
+      ]
+}

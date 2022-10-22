@@ -1,0 +1,16 @@
+{
+      "span accuracy_SVC(C=0.1, gamma=0.5)": 0.7303030303030303,
+      "span precision_score_SVC(C=0.1, gamma=0.5)": 0.7439309056956116,
+      "span recall_score_SVC(C=0.1, gamma=0.5)": 0.7303030303030303,
+      "span f1_score_SVC(C=0.1, gamma=0.5)": 0.7264828318386276,
+      "span confusion_matrix_SVC(C=0.1, gamma=0.5)": [
+            [
+                  101,
+                  64
+            ],
+            [
+                  25,
+                  140
+            ]
+      ]
+}

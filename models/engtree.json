@@ -1,0 +1,16 @@
+{
+      "eng accuracy_DecisionTreeClassifier()": 0.8849806542384805,
+      "eng precision_score_DecisionTreeClassifier()": 0.8920965233056365,
+      "eng recall_score_DecisionTreeClassifier()": 0.8849806542384805,
+      "eng f1_score_DecisionTreeClassifier()": 0.8883522027267028,
+      "eng confusion_matrix_DecisionTreeClassifier()": [
+            [
+                  104,
+                  146
+            ],
+            [
+                  181,
+                  2412
+            ]
+      ]
+}

@@ -1,0 +1,16 @@
+{
+      "span accuracy_LGBMClassifier()": 0.7696969696969697,
+      "span precision_score_LGBMClassifier()": 0.769855562497703,
+      "span recall_score_LGBMClassifier()": 0.7696969696969697,
+      "span f1_score_LGBMClassifier()": 0.7696631277322655,
+      "span confusion_matrix_LGBMClassifier()": [
+            [
+                  125,
+                  40
+            ],
+            [
+                  36,
+                  129
+            ]
+      ]
+}

@@ -1,0 +1,16 @@
+{
+      "kan accuracy_LogisticRegression(max_iter=300)": 0.6835236541598695,
+      "kan precision_score_LogisticRegression(max_iter=300)": 0.661066394182218,
+      "kan recall_score_LogisticRegression(max_iter=300)": 0.6835236541598695,
+      "kan f1_score_LogisticRegression(max_iter=300)": 0.5914225061553805,
+      "kan confusion_matrix_LogisticRegression(max_iter=300)": [
+            [
+                  17,
+                  183
+            ],
+            [
+                  11,
+                  402
+            ]
+      ]
+}

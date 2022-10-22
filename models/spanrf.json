@@ -1,0 +1,16 @@
+{
+      "span accuracy_RandomForestClassifier()": 0.7757575757575758,
+      "span precision_score_RandomForestClassifier()": 0.7783751714931958,
+      "span recall_score_RandomForestClassifier()": 0.7757575757575758,
+      "span f1_score_RandomForestClassifier()": 0.7752291889105702,
+      "span confusion_matrix_RandomForestClassifier()": [
+            [
+                  120,
+                  45
+            ],
+            [
+                  29,
+                  136
+            ]
+      ]
+}

@@ -1,0 +1,16 @@
+{
+      "eng accuracy_SVC(C=0.1, gamma=0.5)": 0.9187478016180092,
+      "eng precision_score_SVC(C=0.1, gamma=0.5)": 0.92147706863598,
+      "eng recall_score_SVC(C=0.1, gamma=0.5)": 0.9187478016180092,
+      "eng f1_score_SVC(C=0.1, gamma=0.5)": 0.8861360733515007,
+      "eng confusion_matrix_SVC(C=0.1, gamma=0.5)": [
+            [
+                  20,
+                  230
+            ],
+            [
+                  1,
+                  2592
+            ]
+      ]
+}

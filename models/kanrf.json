@@ -1,0 +1,16 @@
+{
+      "kan accuracy_RandomForestClassifier()": 0.6606851549755302,
+      "kan precision_score_RandomForestClassifier()": 0.6175412621720939,
+      "kan recall_score_RandomForestClassifier()": 0.6606851549755302,
+      "kan f1_score_RandomForestClassifier()": 0.6162707118436432,
+      "kan confusion_matrix_RandomForestClassifier()": [
+            [
+                  41,
+                  159
+            ],
+            [
+                  49,
+                  364
+            ]
+      ]
+}

@@ -1,0 +1,16 @@
+{
+      "eng accuracy_RandomForestClassifier()": 0.9261343651072811,
+      "eng precision_score_RandomForestClassifier()": 0.9170194663367296,
+      "eng recall_score_RandomForestClassifier()": 0.9261343651072811,
+      "eng f1_score_RandomForestClassifier()": 0.9065985496545581,
+      "eng confusion_matrix_RandomForestClassifier()": [
+            [
+                  55,
+                  195
+            ],
+            [
+                  15,
+                  2578
+            ]
+      ]
+}

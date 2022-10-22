@@ -1,0 +1,16 @@
+{
+      "span accuracy_LogisticRegression(max_iter=300)": 0.7818181818181819,
+      "span precision_score_LogisticRegression(max_iter=300)": 0.7819839023852401,
+      "span recall_score_LogisticRegression(max_iter=300)": 0.7818181818181819,
+      "span f1_score_LogisticRegression(max_iter=300)": 0.7817861210095147,
+      "span confusion_matrix_LogisticRegression(max_iter=300)": [
+            [
+                  131,
+                  34
+            ],
+            [
+                  38,
+                  127
+            ]
+      ]
+}

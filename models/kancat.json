@@ -1,0 +1,16 @@
+{
+      "kan accuracy_<catboost.core.CatBoostClassifier object at 0x000001627DEBC250>": 0.6541598694942904,
+      "kan precision_score_<catboost.core.CatBoostClassifier object at 0x000001627DEBC250>": 0.5967314345456443,
+      "kan recall_score_<catboost.core.CatBoostClassifier object at 0x000001627DEBC250>": 0.6541598694942904,
+      "kan f1_score_<catboost.core.CatBoostClassifier object at 0x000001627DEBC250>": 0.5944162951131902,
+      "kan confusion_matrix_<catboost.core.CatBoostClassifier object at 0x000001627DEBC250>": [
+            [
+                  29,
+                  171
+            ],
+            [
+                  41,
+                  372
+            ]
+      ]
+}

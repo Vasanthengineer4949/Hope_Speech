@@ -1,0 +1,16 @@
+{
+      "tam accuracy_<catboost.core.CatBoostClassifier object at 0x000001627DDD4280>": 0.596252129471891,
+      "tam precision_score_<catboost.core.CatBoostClassifier object at 0x000001627DDD4280>": 0.5994115387564992,
+      "tam recall_score_<catboost.core.CatBoostClassifier object at 0x000001627DDD4280>": 0.596252129471891,
+      "tam f1_score_<catboost.core.CatBoostClassifier object at 0x000001627DDD4280>": 0.5743971208056474,
+      "tam confusion_matrix_<catboost.core.CatBoostClassifier object at 0x000001627DDD4280>": [
+            [
+                  292,
+                  523
+            ],
+            [
+                  188,
+                  758
+            ]
+      ]
+}

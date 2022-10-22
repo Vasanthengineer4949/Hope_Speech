@@ -1,0 +1,16 @@
+{
+      "span accuracy_DecisionTreeClassifier()": 0.6484848484848484,
+      "span precision_score_DecisionTreeClassifier()": 0.6484848484848484,
+      "span recall_score_DecisionTreeClassifier()": 0.6484848484848484,
+      "span f1_score_DecisionTreeClassifier()": 0.6484848484848484,
+      "span confusion_matrix_DecisionTreeClassifier()": [
+            [
+                  107,
+                  58
+            ],
+            [
+                  58,
+                  107
+            ]
+      ]
+}

@@ -1,0 +1,16 @@
+{
+      "eng accuracy_<catboost.core.CatBoostClassifier object at 0x00000162025E1790>": 0.936334857544847,
+      "eng precision_score_<catboost.core.CatBoostClassifier object at 0x00000162025E1790>": 0.9288769040650072,
+      "eng recall_score_<catboost.core.CatBoostClassifier object at 0x00000162025E1790>": 0.936334857544847,
+      "eng f1_score_<catboost.core.CatBoostClassifier object at 0x00000162025E1790>": 0.9266866680786774,
+      "eng confusion_matrix_<catboost.core.CatBoostClassifier object at 0x00000162025E1790>": [
+            [
+                  98,
+                  152
+            ],
+            [
+                  29,
+                  2564
+            ]
+      ]
+}

@@ -1,0 +1,16 @@
+{
+      "tam accuracy_SVC(C=0.1, gamma=0.5)": 0.5599091425326519,
+      "tam precision_score_SVC(C=0.1, gamma=0.5)": 0.6430244192955912,
+      "tam recall_score_SVC(C=0.1, gamma=0.5)": 0.5599091425326519,
+      "tam f1_score_SVC(C=0.1, gamma=0.5)": 0.4407672568349056,
+      "tam confusion_matrix_SVC(C=0.1, gamma=0.5)": [
+            [
+                  60,
+                  755
+            ],
+            [
+                  20,
+                  926
+            ]
+      ]
+}

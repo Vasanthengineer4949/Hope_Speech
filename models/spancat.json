@@ -1,0 +1,16 @@
+{
+      "span accuracy_<catboost.core.CatBoostClassifier object at 0x0000016202745D60>": 0.7909090909090909,
+      "span precision_score_<catboost.core.CatBoostClassifier object at 0x0000016202745D60>": 0.7909197766676463,
+      "span recall_score_<catboost.core.CatBoostClassifier object at 0x0000016202745D60>": 0.7909090909090909,
+      "span f1_score_<catboost.core.CatBoostClassifier object at 0x0000016202745D60>": 0.7909071708647462,
+      "span confusion_matrix_<catboost.core.CatBoostClassifier object at 0x0000016202745D60>": [
+            [
+                  131,
+                  34
+            ],
+            [
+                  35,
+                  130
+            ]
+      ]
+}

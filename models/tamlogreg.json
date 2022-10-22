@@ -1,0 +1,16 @@
+{
+      "tam accuracy_LogisticRegression(max_iter=300)": 0.5780806360022714,
+      "tam precision_score_LogisticRegression(max_iter=300)": 0.5931788499638243,
+      "tam recall_score_LogisticRegression(max_iter=300)": 0.5780806360022714,
+      "tam f1_score_LogisticRegression(max_iter=300)": 0.5253621362877525,
+      "tam confusion_matrix_LogisticRegression(max_iter=300)": [
+            [
+                  185,
+                  630
+            ],
+            [
+                  113,
+                  833
+            ]
+      ]
+}
